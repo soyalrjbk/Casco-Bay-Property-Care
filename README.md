@@ -2,6 +2,8 @@
 
 A responsive one-page website for Casco Bay Property Care, a year-round property maintenance company in the Portland, Maine area. The page introduces the business's services (mowing in summer, plowing in winter, and odd jobs in between), shows a customer review, and includes a form for requesting a free quote.
 
+**Live demo:** https://soyalrjbk.github.io/Casco-Bay-Property-Care/
+
 [![Screenshot-2026-10-10-at-3-41-17-AM.png](https://i.postimg.cc/3NT1WNhJ/Screenshot-2026-10-10-at-3-41-17-AM.png)](https://postimg.cc/VrKnVY53)
 
 ## How It's Made:
